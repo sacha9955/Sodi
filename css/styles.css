@@ -1,4 +1,4 @@
-/* --------------------------------------------------------	*/
+﻿/* --------------------------------------------------------	*/
 /*	Twitter Bootstrap */
 /*	Responsive media queries */
 /*	freshdesignweb.com */
@@ -1095,7 +1095,7 @@ table a:hover{
 
 .pricing-tables .active th, .pricing-tables .active .table-footer {
   color:#fff;
-  background:#fb8865 !important;
+  background:#fff !important;
 }
 
 .pricing-tables .active td {
