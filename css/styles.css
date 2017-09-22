@@ -338,7 +338,7 @@ header {
 
 			#nav > ul
 			{
-				background-color: #0000FF;
+				background-color: #0b539d;
 			}
 				#nav > ul > li
 				{
@@ -355,12 +355,12 @@ header {
 					}
 						#nav > ul > li:not( :last-child ) > a
 						{
-							border-right: 1px solid #0000FF;
+							border-right: 1px solid #0b539d;
 						}
 						#nav > ul > li:hover > a,
 						#nav > ul:not( :hover ) > li.active > a
 						{
-							background-color: #0000FF;
+							background-color: #0b539d;
 						}
 
 
@@ -368,7 +368,7 @@ header {
 
 				#nav li ul
 				{
-					background-color: #0000FF;
+					background-color: #0b539d;
 					display: none;
 					position: absolute;
 					top: 100%;
@@ -387,13 +387,13 @@ header {
 						}
 						#nav li ul a
 						{
-							border-top: 1px solid #0000FF;
+							border-top: 1px solid #0b539d;
 							padding: 5px; /* 15 (20) */
 						}
 							#nav li ul li a:hover,
 							#nav li ul:not( :hover ) li.active a
 							{
-								background-color: #0000FF;
+								background-color: #0b539d;
 							}
 
 
@@ -429,7 +429,7 @@ header {
 					height: 3.125em; /* 50 */
 					text-align: left;
 					text-indent: -9999px;
-					background-color: #0000FF;
+					background-color: #0b539d;
 					position: relative;
 				}
 					#nav > a:before,
@@ -482,7 +482,7 @@ header {
 						#nav > ul > li:not( :last-child ) > a
 						{
 							border-right: none;
-							border-bottom: 1px solid #0000FF;
+							border-bottom: 1px solid #0b539d;
 						}
 
 
